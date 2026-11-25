@@ -88,3 +88,7 @@ AiderDesk is an Electron-based desktop application that provides a GUI wrapper f
 - **Build Tools**: electron-vite, esbuild, TypeScript project references
 - **Testing**: ESLint for linting, Prettier for formatting
 - **Internationalization**: i18next with English and Chinese support
+
+## Issues and pull requests
+
+Create and resolve issues to coordinate work across chats and teams. A pull request can stand on its own. Link and resolve related issues when applicable. When creating a GitHub issue, set the applicable available issue fields. When planning from an issue, review its fields, description, and comments.
